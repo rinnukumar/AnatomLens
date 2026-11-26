@@ -1,0 +1,12 @@
+,Bladder,Femur-left,Femur-right,Heart,Kidney-left,Kidney-right,Liver,Lung-left,Lung-right,Pancreas,Spleen
+Bladder,903,6,2,1,40,36,12,0,0,33,3
+Femur-left,30,654,34,0,16,17,0,0,0,31,2
+Femur-right,19,56,606,2,48,29,4,0,0,22,7
+Heart,0,0,0,703,9,0,7,46,0,9,11
+Kidney-left,65,70,6,4,1377,222,12,5,1,173,129
+Kidney-right,61,16,11,8,155,1492,9,6,5,122,80
+Liver,8,3,0,30,9,9,3168,0,14,44,0
+Lung-left,0,0,0,0,2,0,0,1743,0,0,2
+Lung-right,0,0,0,0,0,0,9,8,1796,0,0
+Pancreas,54,0,0,0,36,38,36,0,0,1401,57
+Spleen,12,11,6,17,265,25,30,15,0,130,1373

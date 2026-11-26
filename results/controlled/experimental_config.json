@@ -1,0 +1,19 @@
+{
+    "dataset": "organamnist",
+    "image_size": 64,
+    "num_classes": 11,
+    "batch_size": 128,
+    "epochs": 20,
+    "learning_rate": 0.0003,
+    "weight_decay": 0.0001,
+    "optimizer": "AdamW",
+    "seeds": [
+        42,
+        123,
+        2026
+    ],
+    "mean": 0.4680533955970271,
+    "std": 0.28575827805106974,
+    "checkpoint_metric": "validation_macro_f1",
+    "dataset_sha256": "7c39150fd57085477a9f0b7f1dcec76eae366f578f4e600653ddc15d46aab6e0"
+}
